@@ -1,2 +1,2 @@
 # Just a simple implementation of weather api 
-<a href="#">click</a>
+<a href="https://maxlugosi.github.io/weather-api-js/">click</a>
