@@ -1,0 +1,39 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+body {
+  font-size: 10px;
+}
+
+.weather {
+  margin: 0 auto;
+  padding: 1.5rem;
+  text-align: center;
+  max-width: 450px;
+  min-width: 250px;
+  border: 3px solid #009999;
+}
+.weather__title {
+  font-size: 2rem;
+  color: #0f93ff;
+}
+.weather__main {
+  margin-top: 10px;
+}
+.weather__main .temperature {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.weather__main .clouds {
+  font-size: 1rem;
+  color: #009999;
+}/*# sourceMappingURL=styles.css.map */
